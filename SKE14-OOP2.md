@@ -1,4 +1,4 @@
-# OOP2017 Projects
+# OOP2-2017 Projects
 
 | Project Name          | Members  | Web Page  |
 |-----------------------|----------|-----------|
